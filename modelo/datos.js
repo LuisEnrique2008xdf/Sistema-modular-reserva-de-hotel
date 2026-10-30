@@ -17,10 +17,4 @@ export const habitaciones = [
         precio: 800000,
         estado: "ocupada"
     },
-    {
-        numero: 26,
-        tipoCama: "doble",
-        precio: 150000,
-        estado: "disponible"
-    }
 ];
