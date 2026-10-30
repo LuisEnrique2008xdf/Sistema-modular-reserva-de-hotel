@@ -1,3 +1,21 @@
 {
-    "type": "module"
+  "name": "hotel",
+  "version": "1.0.0",
+  "description": "Luis Enrique Morales Arcia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisEnrique2008xdf/Sistema-modular-reserva-de-hotel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LuisEnrique2008xdf/Sistema-modular-reserva-de-hotel/issues"
+  },
+  "homepage": "https://github.com/LuisEnrique2008xdf/Sistema-modular-reserva-de-hotel#readme"
 }
