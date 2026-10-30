@@ -25,3 +25,17 @@ export function realizarCheckIn(numero) {
     );
 }
 
+export function calcularIngresos() {
+
+    let total = 0;
+
+    habitaciones.forEach(habitacion => {
+
+        if (habitacion.estado === "ocupada") {
+            total += habitacion.precio;
+        }
+
+    });
+
+    return total;
+}
